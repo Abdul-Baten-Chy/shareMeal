@@ -4,7 +4,7 @@ Welcome to the Food Sharing App! This project allows users to share available fo
 
 ## Live Demo
 
-Check out the live demo of the app here: [Food Sharing App Demo](https://your-app-demo-url.com)
+Check out the live demo of the app here: [Food Sharing App Demo](https://app.netlify.com/sites/thriving-kitsune-948d31/deploys/6685807e2197d555bd54b103)
 
 ## Technologies Used
 
